@@ -156,10 +156,11 @@ footer p{
 	text-align: center;
 }
 
-.product-page-nav ul{
-	
+.product-page-nav li{
+	display: inline-block;
+
 }
-.marquee{
+.marquee{ 
 	width: 100%;
 }
 .marquee .mainPicture{
