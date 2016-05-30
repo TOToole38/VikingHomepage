@@ -66,6 +66,8 @@ footer p{
 }
 .mainPicture img{
 	opacity: .6; 
+	width:60%;
+	height: 25rem;
 }
 
 .tagLine{
