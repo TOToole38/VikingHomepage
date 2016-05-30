@@ -88,10 +88,11 @@ footer p{
 	padding-bottom: 1rem; 
 }
 
-.products .product-selection{
+.products {
 	height: 25em;
-	border-width: 2em; 
+	border-width: .14rem; 
 	border-color:#AFAFB7;
+	border-style:solid;
 }
 
 .product-page-nav{
