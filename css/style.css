@@ -44,3 +44,11 @@ footer p{
 	border-width: 2em; 
 	border-color:black; 
 }
+
+.product-selection{
+	height: 75em;
+}
+
+.product-page-nav{
+	height: 20em;
+}
