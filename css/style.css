@@ -89,13 +89,46 @@ footer p{
 }
 
 .products .product-selection{
-	height: 25em;
+	/*height: 25em;*/
 	border-width: .14rem; 
 	border-color:#AFAFB7;
 	border-style:solid;
 }
 
-
+.axeProduct{
+	display: inline-block;
+}
+.axeProduct img{
+	width: 20px;
+	height: 30px;
+}
+.axeProduct figcaption{
+	width:20px;
+	height: 10px;
+	font-size: .8rem; 
+	background-color: #404047;
+	color: white; 
+}
+.axeProduct .price{
+	display: inline-block;
+	position: absolute;
+	top:0px;
+	right:0px; 
+	border-style: solid;
+	border-width: .4rem;
+	border-color: black;
+}
+.axeProduct .cta{
+	background-color: black; 
+	width: 20px;
+	height: 10px; 
+}
+.axeProduct input{
+	background-color: yellow; 
+	color: black;
+	width: 10px;
+	height: 7px; 
+}
 .product-page-nav{
 	height: 10em;
 	border-width: 2em; 
