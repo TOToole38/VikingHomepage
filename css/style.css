@@ -21,10 +21,14 @@ h1{
 footer{
 	background-color: black; 
 	text-align: center;
+	color: white;
 }
 
 footer img{
 	display: inline-block;
 	height: 2rem; 
 	width: 2rem;
+}
+footer p{
+	display: inline-block;
 }
