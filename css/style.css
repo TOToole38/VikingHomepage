@@ -20,8 +20,8 @@ h1{
 	padding-right: 2rem; 
 }
 
-.nav-header>img{
-	height: 3em;
+.nav-header .cart img{
+	height: 3rem;
 	width:3em;
 	display: inline-block;
 	/*text-align: right;*/
