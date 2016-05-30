@@ -88,7 +88,7 @@ footer p{
 	padding-bottom: 1rem; 
 }
 
-.products {
+.products .product-selection{
 	height: 25em;
 	border-width: .14rem; 
 	border-color:#AFAFB7;
