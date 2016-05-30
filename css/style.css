@@ -83,9 +83,9 @@ footer p{
 	text-align: center; 
 	font-family: fantasy;
 	color:#404047;
-	font-variant: italic; 
+	padding-bottom: .5rem; 
+	font-style: italic;
 	padding-top: 1rem; 
-	padding-bottom: 1rem; 
 }
 
 .products .product-selection{
@@ -94,6 +94,7 @@ footer p{
 	border-color:#AFAFB7;
 	border-style:solid;
 }
+
 
 .product-page-nav{
 	height: 10em;
