@@ -33,8 +33,9 @@ h1{
 	font-size: 1rem;
 	color: #404047;
 }
-.cart {
-	text-align: right; 
+div.cart {
+	text-align: right;
+	display: inline-block; 
 }
 
 footer{
