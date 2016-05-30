@@ -42,17 +42,21 @@ footer p{
 	width:100%;
 	background-color: #FAFBFF;
 	border-width: 2em; 
-	border-color:black; 
+	border-color:#062DCB; 
 }
 
 .product-selection{
 	height: 25em;
 	border-width: 2em; 
-	border-color:black;
+	border-color:#062DCB;
 }
 
 .product-page-nav{
 	height: 10em;
 	border-width: 2em; 
-	border-color:black;
+	border-color:#062DCB;
+}
+
+.marquee{
+	width: 100%;
 }
