@@ -60,3 +60,19 @@ footer p{
 .marquee{
 	width: 100%;
 }
+.marquee .mainPicture{
+	text-align: center; 
+	margin-left: 10em; 
+}
+.mainPicture img{
+	opacity: .6; 
+}
+
+.tagLine{
+	color:white;
+	font-size: 3rem; 
+	background-color: black; 
+	padding-top: 3rem; 
+	padding-bottom: 3rem;
+	width: 100%;
+}
