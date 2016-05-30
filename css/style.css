@@ -16,16 +16,17 @@ h1{
 	font-size: 2.3rem; 
 	padding-left: 2rem; 
 	padding-top: 1em; 
-	padding-bottom: 1em; 
+	padding-bottom: .7em; 
 	padding-right: 2rem; 
 }
 
 .nav-header .cart img{
-	height: 3rem;
-	width:3em;
-	/*display: inline-block;*/
+	height: 2rem;
+	width:2em;
+	display: inline-block;
 	position:absolute;
-
+	right:13rem;
+	top:2.1rem;
 }
 
 .cart p{
@@ -33,6 +34,9 @@ h1{
 	font-family: fantasy; 
 	font-size: 1rem;
 	color: #404047;
+	position: absolute;
+	right:8rem;
+	top:3rem;
 }
 div.cart {
 	text-align: right;
