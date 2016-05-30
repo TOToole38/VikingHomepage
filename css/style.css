@@ -151,11 +151,14 @@ footer p{
 }
 
 .product-page-nav{
-	height: 10em;
-	border-width: 2em; 
-	border-color:#062DCB;
+	margin-top: 5rem;
+	margin-bottom: 2rem;
+	text-align: center;
 }
 
+.product-page-nav ul{
+	
+}
 .marquee{
 	width: 100%;
 }
