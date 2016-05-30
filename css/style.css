@@ -1,3 +1,8 @@
 body{
 	background: purple;
 }
+
+.nav-header>img{
+	height: 3em;
+	width:3em;
+}
