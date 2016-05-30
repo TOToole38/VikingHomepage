@@ -77,14 +77,21 @@ footer p{
 .products{
 	width:100%;
 	background-color: #FAFBFF;
-	border-width: 2em; 
-	border-color:#062DCB; 
 }
 
-.product-selection{
+.products h3{
+	text-align: center; 
+	font-family: fantasy;
+	color:#404047;
+	font-variant: italic; 
+	padding-top: 1rem; 
+	padding-bottom: 1rem; 
+}
+
+.products .product-selection{
 	height: 25em;
 	border-width: 2em; 
-	border-color:#062DCB;
+	border-color:#AFAFB7;
 }
 
 .product-page-nav{
@@ -115,4 +122,13 @@ footer p{
 	width: 100%;
 	font-family: fantasy;
 	text-align: center; 
+}
+
+h3{
+	text-align: center; 
+	font-family: fantasy;
+	color:#404047;
+	font-variant: italic; 
+	padding-top: 1rem; 
+	padding-bottom: 1rem; 
 }
