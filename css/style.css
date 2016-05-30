@@ -4,18 +4,37 @@ body{
 
 .nav-header{
 	/*position: fixed;*/
-	top: 0px;
+	/*top: 0px;
 	left: 0px;
-	right:0px;
+	right:0px;*/
 }
+
 h1{
 	display: inline-block;
+	color: #404047;
+	font-family: fantasy;
+	font-size: 2.3rem; 
+	padding-left: 2rem; 
+	padding-top: 1em; 
+	padding-bottom: 1em; 
+	padding-right: 2rem; 
 }
+
 .nav-header>img{
 	height: 3em;
 	width:3em;
 	display: inline-block;
-	text-align: right;
+	/*text-align: right;*/
+}
+
+.cart p{
+	display: inline-block;
+	font-family: fantasy; 
+	font-size: 1rem;
+	color: #404047;
+}
+.cart {
+	text-align: right; 
 }
 
 footer{
@@ -62,19 +81,21 @@ footer p{
 }
 .marquee .mainPicture{
 	text-align: center; 
-	margin-left: 10em; 
+	/*margin-left: 10em; */
 }
 .mainPicture img{
-	opacity: .6; 
-	width:60%;
-	height: 25rem;
+	opacity: .7; 
+	width:85%;
+	height: 20rem;
 }
 
 .tagLine{
 	color:white;
-	font-size: 3rem; 
-	background-color: black; 
+	font-size: 2.3rem; 
+	background-color:#404047; 
 	padding-top: 3rem; 
 	padding-bottom: 3rem;
 	width: 100%;
+	font-family: fantasy;
+	text-align: center; 
 }
