@@ -46,9 +46,13 @@ footer p{
 }
 
 .product-selection{
-	height: 75em;
+	height: 25em;
+	border-width: 2em; 
+	border-color:black;
 }
 
 .product-page-nav{
-	height: 20em;
+	height: 10em;
+	border-width: 2em; 
+	border-color:black;
 }
